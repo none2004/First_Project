@@ -7,5 +7,6 @@ public class MaitreAnimal {
 		RéactionAnimal = monAnimal.dire("UwU");
 		System.out.println(RéactionAnimal);
 		monAnimal.dormir();
+		System.out.println("-----");
 	}
 }
